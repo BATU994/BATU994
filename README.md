@@ -1,4 +1,4 @@
-🐾What's Up?, I'm Batumukhammed Beksultan
+What's Up?, I'm Batumukhammed Beksultan
 
 **`Flutter Developer|Web Developer|Student who is eager to learn`**
 
